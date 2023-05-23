@@ -1,6 +1,6 @@
 [![SLSA 1](https://slsa.dev/images/gh-badge-level1.svg)](https://slsa.dev)
 
-# SLSA Awesome Server
+# SLSA Awesome Server 
 Awesome Server written in Go used for SLSA exercises
 
 To run the awesome-server run the following in a terminal
